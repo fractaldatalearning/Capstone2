@@ -3,6 +3,8 @@ Capstone2
 
 all resources for dsc capstone 2 for KL
 
+In this project I'm working to complete a kaggle challenge to determine which items instacart should recommend customers put in their cart (based on predictions of what they'll buy considering what they've bought in the past). Dataset originated here: https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview
+
 Project Organization
 ------------
 
