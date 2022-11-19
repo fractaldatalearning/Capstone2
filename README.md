@@ -1,9 +1,9 @@
 Capstone2
 ==============================
 
-all resources for dsc capstone 2 for KL
+All resources for dsc capstone 2 for Katin Lind
 
-In this project I'm working to complete a kaggle challenge to determine which items instacart should recommend customers put in their cart (based on predictions of what they'll buy considering what they've bought in the past). Dataset originated here: https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview
+In this project I'm working with data used in a kaggle challenge. My goal is to determine which items instacart should recommend customers put in their cart (based on predictions of what they'll buy considering what they've bought in the past). Dataset originated here: https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview
 
 Project Organization
 ------------
@@ -12,9 +12,8 @@ Project Organization
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
+    │   ├── processed        <- Intermediate data that has been transformed.
+    │   ├── final      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
