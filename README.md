@@ -4,7 +4,7 @@ In this project I'm working with data used in a kaggle challenge. My goal is to 
 
 Dataset originated here: https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview
 
-My [summative project report is available here], or read a summary below to understand what can be found in which notebook:
+My [summative project report is available here](https://github.com/fractaldatalearning/Capstone2/blob/main/reports/Katin_Capstone2_Report.pdf), or read a summary below to understand what can be found in which notebook:
 
 1. In the [wrangling notebook](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/1-kl-wrangling.ipynb), I load data and merge data about products with that about users and their orders. 
 
