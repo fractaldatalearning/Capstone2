@@ -1,9 +1,8 @@
-Capstone2
-==============================
+# <font color='violet'>Katin Lind Springboard Bootcamp Capstone 2 Summary: Instacart Recommendations</font>
 
-All resources for dsc capstone 2 for Katin Lind
+In this project I'm working with data used in a kaggle challenge. My goal is to determine which items instacart should recommend to each user next time they log into their account (based on predictions of what they'll reorder from items purchased in the past). 
 
-In this project I'm working with data used in a kaggle challenge. My goal is to determine which items instacart should recommend customers put in their cart (based on predictions of what they'll buy considering what they've bought in the past). Dataset originated here: https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview
+Dataset originated here: https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview
 
 Project Organization
 ------------
