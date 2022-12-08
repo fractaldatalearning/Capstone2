@@ -22,7 +22,7 @@ My [summative project report is available here](https://github.com/fractaldatale
 
 5. In [notebook 7](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/7-kl-preprocess-encoding.ipynb), I tried multiple strategies for encoding categorical data and chose a 💜 **Target Encoder** with default hyperparameters in order to encode categorical features such as the user id, product name, and aisle and department in which each product is classified. 
 
-6. Finally, in [notebook 8](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/8-kl-modeling.ipynb), I use a random grid search with cross-validation to test multiple classifiers. I selected the 💜 **Random Forest classifier** becaue it performed best overall in a combined evaluation using log loss, roc_auc, and f1 metrics. I tuned the hyperparameters and finalized the model. 
+6. Finally, in [notebook 8](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/8-kl-modeling.ipynb), I use a random grid search with cross-validation to test multiple classifiers. I selected the 💜 **Random Forest classifier** because it performed best overall in a combined evaluation using log loss, roc_auc, and f1 metrics. I tuned the hyperparameters and finalized the model. 
 
 # Results:
 💜 log loss score: 2.55, vs. 5.68 with naive model 
