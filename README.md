@@ -29,7 +29,7 @@ My [summative project report is available here](https://github.com/fractaldatale
 
 💜 ROC_AUC: 0.71 
 
-💜 F1: 0.4. vs. 0.09 with naive model 
+💜 F1: 0.4 vs. 0.09 with naive model 
 
 # 
 
