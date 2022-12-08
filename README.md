@@ -1,6 +1,6 @@
 # Instacart Recommendations 
 
-![shopping cart filling automatically](https://www.flickr.com/photos/30478819@N08/51124033077)
+![shopping cart filling automatically](https://upload.wikimedia.org/wikipedia/commons/1/1c/NutEdVolunteerMaggie.jpg)
 
 My goal in this project is to determine which items instacart should recommend to each user next time they log into their account (based on predictions of what they'll reorder from items purchased in the past). 
 
