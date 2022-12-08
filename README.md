@@ -24,7 +24,7 @@ My [summative project report is available here](https://github.com/fractaldatale
 
 6. Finally, in [notebook 8](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/8-kl-modeling.ipynb), I use a random grid search with cross-validation to test multiple classifiers. I selected the 💜 **Random Forest Classifier** because it performed best overall in a combined evaluation using log loss, roc_auc, and f1 metrics. I tuned the hyperparameters and finalized the model. 
 
-# Results:
+# Evaluation:
 💜 Log Loss: 2.55, vs. 5.68 with naive model 
 
 💜 ROC_AUC: 0.71 
