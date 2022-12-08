@@ -20,8 +20,8 @@ My [summative project report is available here](https://github.com/fractaldatale
 ![Reorders by Past Cart Placement](https://github.com/fractaldatalearning/instacart_recommendations/blob/main/reports/figures/fig4.png)
 ![Reorders by Days Since Prior Order](https://github.com/fractaldatalearning/instacart_recommendations/blob/main/reports/figures/fig5.png)
 
-5. In [notebook 7](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/7-kl-preprocess-encoding.ipynb), I tried multiple strategies for encoding categorical data and chose a **Target Encoder** with default hyperparameters in order to encode categorical features such as the user id, product name, and aisle and department in which each product is classified. 
+5. In [notebook 7](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/7-kl-preprocess-encoding.ipynb), I tried multiple strategies for encoding categorical data and chose a 💜 **Target Encoder** with default hyperparameters in order to encode categorical features such as the user id, product name, and aisle and department in which each product is classified. 
 
-6. Finally, in [notebook 8](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/8-kl-modeling.ipynb), I use a random grid search with cross-validation to test multiple classifiers. I selected the **Random Forest classifier** becaue it performed best overall in a combined evaluation using log loss, roc_auc, and f1 metrics. I tuned the hyperparameters and finalized the model. 
+6. Finally, in [notebook 8](https://github.com/fractaldatalearning/Capstone2/blob/main/notebooks/8-kl-modeling.ipynb), I use a random grid search with cross-validation to test multiple classifiers. I selected the 💜 **Random Forest classifier** becaue it performed best overall in a combined evaluation using log loss, roc_auc, and f1 metrics. I tuned the hyperparameters and finalized the model. 
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
