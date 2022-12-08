@@ -31,6 +31,6 @@ My [summative project report is available here](https://github.com/fractaldatale
 
 💜 F1: 0.4. vs. 0.09 with naive model 
 
-
+# 
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
