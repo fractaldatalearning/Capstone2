@@ -1,6 +1,6 @@
 # Instacart Recommendations 
 
-![shopping cart filling automatically]([https://drive.google.com/file/d/1Ly93TauJm0AW_cNUJ63wiUOWqzxuzv0q/view?usp=sharing](https://drive.google.com/file/d/1Ly93TauJm0AW_cNUJ63wiUOWqzxuzv0q/view?usp=sharing])
+![shopping cart filling automatically](https://drive.google.com/file/d/1Ly93TauJm0AW_cNUJ63wiUOWqzxuzv0q/view?usp=sharing](https://drive.google.com/file/d/1Ly93TauJm0AW_cNUJ63wiUOWqzxuzv0q/view?usp=sharing)
 
 My goal in this project is to determine which items instacart should recommend to each user next time they log into their account (based on predictions of what they'll reorder from items purchased in the past). 
 
