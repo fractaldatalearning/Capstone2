@@ -1,4 +1,4 @@
-## Instacart Recommendations 
+### Instacart Recommendations 
 
 ![shopping cart filling automatically](https://upload.wikimedia.org/wikipedia/commons/1/1c/NutEdVolunteerMaggie.jpg)
 
