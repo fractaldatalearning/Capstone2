@@ -6,7 +6,7 @@ My goal in this project is to determine which items instacart should recommend t
 
 Dataset originated here: https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview
 
-My [summative project report is available here](https://github.com/fractaldatalearning/instacart_recommendations/blob/main/reports/Katin_Capstone2_Report.pdf), or read a summary below to understand what can be found in which notebook:
+My [summative project report is available here](https://github.com/fractaldatalearning/instacart_recommendations/blob/main/reports/katin_instacart_report.pdf), or read a summary below to understand what can be found in which notebook:
 
 1. In the [wrangling notebook](https://github.com/fractaldatalearning/instacart_recommendations/blob/main/notebooks/1-kl-wrangling.ipynb), I load data and merge data about products with that about users and their orders. 
 
